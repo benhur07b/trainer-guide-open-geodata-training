@@ -1,6 +1,6 @@
 # OKF Open Geodata Training Programme Trainer Guide
 
-This is a training guide website for trainers of the Open Geodata Training Programme by the Open Knowledge Foundatoin and the Data for Good Team at Meta. Built using [Livemark](https://livemark.frictionlessdata.io/).
+This is a training guide website for trainers of the Open Geodata Training Programme by the [Open Knowledge Foundation](https://okfn.org) and [Data for Good at Meta](https://dataforgood.facebook.com/). Built using [Livemark](https://livemark.frictionlessdata.io/).
 
 ## Development
 

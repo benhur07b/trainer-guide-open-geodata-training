@@ -1,6 +1,6 @@
 # About the programme
 
-**Data for Good at Meta** has partnered with the **Open Knowledge Foundation** to design, develop, and deliver a training focused on how governments and nonprofits around the world can utilise free and open geospatial data and geospatial software. 
+[**Data for Good at Meta**](https://dataforgood.facebook.com/) has partnered with the [**Open Knowledge Foundation**](https://okfn.org/) to design, develop, and deliver a training focused on how governments and nonprofits around the world can utilise free and open geospatial data and geospatial software. 
 
 The Open Geodata Training Programme aims to:
 - Raise awareness about free and open GIS and geospatial resources available to governments and nonprofits;

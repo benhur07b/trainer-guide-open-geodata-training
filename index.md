@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a training guide for trainers of the Open Geodata Training Programme by the Open Knowledge Foundatoin and the Data for Good Team at Meta. It is a useful resource that records the lessons learned from previous training sessions and provides best practice approaches to the planning, implementation, and monitoring of the training programme.
+This is a training guide for trainers of the Open Geodata Training Programme by the [**Open Knowledge Foundation**](https://okfn.org) and [**Data for Good at Meta**](https://dataforgood.facebook.com/). It is a useful resource that records the lessons learned from previous training sessions and provides best practice approaches to the planning, implementation, and monitoring of the training programme.
 
 ## General timeline of activities
 
